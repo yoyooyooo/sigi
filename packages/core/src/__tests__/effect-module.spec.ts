@@ -82,7 +82,7 @@ class Counter extends EffectModule<CounterState> {
   }
 }
 
-describe('Ayanami Class', () => {
+describe('EffectModule Class', () => {
   let counter: Counter
 
   beforeEach(() => {
